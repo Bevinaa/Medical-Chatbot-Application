@@ -9,4 +9,6 @@ langchain_community
 langchain_openai
 langchain_experimental
 sentence-transformers==2.2.2
+huggingface-hub==0.14.1
+torch==2.2.2
 -e .

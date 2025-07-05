@@ -2,7 +2,7 @@ sentence-transformers==2.2.2
 langchain
 flask
 pypdf
-cohere-ai
+cohere==4.44.0
 python-dotenv
 pinecone[grpc]
 langchain-pinecone

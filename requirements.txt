@@ -1,4 +1,3 @@
-sentence-transformers==2.2.2
 langchain
 flask
 pypdf
@@ -9,5 +8,5 @@ langchain-pinecone
 langchain_community
 langchain_openai
 langchain_experimental
-sentence-transformers
+sentence-transformers==2.2.2
 -e .

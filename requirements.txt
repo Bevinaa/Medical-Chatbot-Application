@@ -1,14 +1,12 @@
-langchain
-flask
-pypdf
+langchain>=0.3.26
+flask>=3.1.1
+pypdf>=5.7.0
 cohere==4.44.0
 python-dotenv
-pinecone[grpc]
 langchain-pinecone
-langchain_community
-langchain_openai
-langchain_experimental
-sentence-transformers==2.2.2
-huggingface-hub==0.14.1
-torch==2.2.2
--e .
+langchain_community>=0.3.27
+langchain_openai>=0.3.27
+langchain_experimental>=0.3.4
+sentence-transformers>=2.6.0
+huggingface-hub>=0.21.1
+torch>=2.7.0

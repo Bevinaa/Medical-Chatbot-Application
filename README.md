@@ -1,4 +1,4 @@
-# **End-to-End Medical Chatbot Application**
+# ** GENERAL ASSISTANT WITH MEDICAL EXPERTISE - AI POWERED CHATBOT **
 
 ## **Overview**
 

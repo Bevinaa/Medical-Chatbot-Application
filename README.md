@@ -1,14 +1,14 @@
-# ** GENERAL ASSISTANT WITH MEDICAL EXPERTISE - AI POWERED CHATBOT **
+# **GENERAL ASSISTANT WITH MEDICAL EXPERTISE - AI POWERED CHATBOT**
 
 ## **Overview**
 
-This repository contains an **End-to-End Medical Chatbot** powered by **Generative AI**, designed to provide accurate and contextually relevant responses to medical queries. Built using **Flask**, **Cohere’s Language Model**, and **Pinecone** for vector storage, this chatbot can answer a wide range of health-related questions and offer context-aware follow-ups. The chatbot remembers previous queries to offer more personalized responses.
+This repository contains an **AI Assistant** powered by **Large Language Model**, designed to provide accurate and contextually relevant responses to medical queries. Built using **Flask**, **Cohere’s Language Model**, and **Pinecone** for vector storage, this chatbot can answer a wide range of health-related questions and offer context-aware follow-ups. The chatbot remembers previous queries to offer more personalized responses.
 
 ---
 
 ## **Key Features**
 
-- **Generative AI-Powered Responses**: Uses **Cohere’s Language Model** to generate medical answers.
+- **AI-Powered Responses**: Uses **Cohere’s Language Model** to generate medical answers.
 - **Context-Aware Conversations**: The chatbot can maintain the context of the conversation, enabling more accurate follow-up answers.
 - **Efficient Document Retrieval**: Integrated with **Pinecone**, a vector database, for fast and scalable document search.
 - **Flask Web Application**: A user-friendly web interface powered by Flask for seamless interaction.
@@ -46,7 +46,7 @@ Follow the steps below to set up and run the chatbot on your local machine:
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone (https://github.com/Bevinaa/Medical-Chatbot-Application)
+git clone https://github.com/Bevinaa/Medical-Chatbot-Application
 cd End-to-end-Medical-Chatbot-Generative-AI
 ```
 
@@ -133,7 +133,7 @@ You can ask follow-up questions, and the chatbot will maintain the context of yo
   
 ---
 
-## **Contributing**
+## **Contributions**
 
 If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. 
 
